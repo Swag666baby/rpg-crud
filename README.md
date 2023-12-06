@@ -33,7 +33,7 @@ const newUser = async() => {
         "class": "<youClass">,
         "primary_weapon": "<youPrimaryWeapon>",
         "secondary_weapon": "<youSecondaryWeapon>"
-    }))
+    })
     console.log(post.data)
 }
 ```
