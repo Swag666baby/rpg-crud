@@ -79,3 +79,5 @@ const allUsers = async() => {
 ```
 Some items are changed automatically, so I chose not to allow modification via the `modify` route. items like `xp`, `level` and `patent`. 
 but if you still want to change them via route, go to `src/routes/modifyUsers.ts` and add them to `newData`. 
+
+https://rpg-crud-v2b5.onrender.com/
